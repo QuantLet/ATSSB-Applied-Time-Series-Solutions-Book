@@ -1,0 +1,14 @@
+
+Name of Quantlet:    'ATSSB_BTC'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet produces plots of closing daily prices, log-returns and their ACF for Time series of BTC daily prices from January 01, 2017 to January 15, 2025.'
+
+Keywords:            'time series, BTC, Bitcoin, autocorrelation, log-returns'
+
+Author[New]:         Raul Cristian Bag
+
+Datafile:            bitcoin_price_data.csv
+
+

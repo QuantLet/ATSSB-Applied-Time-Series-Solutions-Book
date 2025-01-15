@@ -1,0 +1,10 @@
+
+Name of Quantlet:    'ATSSB_BTC_Scraping'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This quantlet downloads the BTCUSD daily data in the form of: Time, ClosingP, "OpenP, High, Low, Volume, Rate'
+
+Keywords:            'time series, BTC, Bitcoin, scraping, data, beautifulsoup'
+
+Author[New]:         Raul Cristian Bag
