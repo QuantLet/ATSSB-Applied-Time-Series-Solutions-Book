@@ -3,9 +3,9 @@ Name of Quantlet:    'ATSSB_TS_Examples'
 
 Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
 
-Description:         'This Quantlet produces plots of beer production and steam bandwith in europe.'
+Description:         'This Quantlet produces plots of beer production and steam bandwidth in Europe.'
 
-Keywords:            'time series, steam bandwith, beer production'
+Keywords:            'time series, steam bandwidth, beer production'
 
 Author[New]:         Raul Cristian Bag
 
