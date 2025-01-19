@@ -1,5 +1,5 @@
 
-Name of Quantlet:    'pyTSA_BTC'
+Name of Quantlet:    'pyTSA_BTC_Chapter1_Q1_3'
 
 Published in:        'Applied Time Series Analysis and Forecasting with Python'
 
