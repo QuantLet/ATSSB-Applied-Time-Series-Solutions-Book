@@ -27,8 +27,8 @@ dat = pd.date_range('2016 10 03 10:20:00', periods = len(bandwith),freq = '10min
 bandwith.index = dat
 bandwith = bandwith.loc["2024-07-01 10:20:00": "2025-01-01 10:30:00"]
 bandwith = bandwith['Europe']
-bandwith.plot(); plt.title('Europe Steam Download Bandwith from 07.2024 to 01.2025')
-plt.ylabel('Bandwith in GBps'); 
+bandwith.plot(); plt.title('Europe Steam Download Bandwidth from 07.2024 to 01.2025')
+plt.ylabel('Bandwidth in GBps'); 
 plt.savefig('ATSSB_Europe_Steam_Download.png', dpi = 1200, 
             bbox_inches ='tight', transparent = True); plt.show()
 
