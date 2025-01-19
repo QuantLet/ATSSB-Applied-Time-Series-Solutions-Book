@@ -1,0 +1,13 @@
+Name of Quantlet:    'pyTSA_Sunspot'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python'
+
+Description:         'This Quantlet plots yearly mean total sunspot number for the period 1700 - 2024, obtained from Royal Observatory of Belgium, Brussels, https://www.sidc.be/SILSO/datafiles'
+
+Keywords:            'time series, visualisation, plot'
+
+Author:              Huang Changquan, Alla Petukhina, Ruting Wang
+
+Datafile:            Yearly mean total sunspot number 1700 - 2024.csv
+
+
