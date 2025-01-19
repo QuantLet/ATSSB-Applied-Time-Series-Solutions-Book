@@ -1,4 +1,4 @@
-Name of Quantlet:    'pyTSA_Sunspot'
+Name of Quantlet:    'ATSSB_Sunspot'
 
 Published in:        'Applied Time Series Analysis and Forecasting with Python'
 
