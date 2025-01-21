@@ -1,1 +1,12 @@
+Name of Quantlet:    'ATSSB-Stationarity'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet provides a proof that for a time series following the normal distribution family, weak stationarity implies strict stationarity.'
+
+Keywords:            'time series, weak stationarity, strict stationarity, normal distribution, variance-covariance matrix'
+
+Author[New]:         Daniel Traian Pele
+
+Datafile:            Not Applicable
 
