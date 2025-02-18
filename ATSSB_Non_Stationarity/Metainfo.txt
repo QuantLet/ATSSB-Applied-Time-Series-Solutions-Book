@@ -1,1 +1,11 @@
+Name of Quantlet:    'ATSSB_Non_Stationarity'
 
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet provides necessary but not sufficient conditions for weak stationarity.'
+
+Keywords:            'time series, weak stationarity, normal distribution'
+
+Author[New]:         Daniel Traian Pele
+
+Datafile:            Not Applicable
