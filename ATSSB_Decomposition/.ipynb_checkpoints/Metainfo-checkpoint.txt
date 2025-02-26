@@ -1,0 +1,11 @@
+
+Name of Quantlet:    'ATSSB_Decomposition'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet produces simualations of different time series concepts.'
+
+Keywords:            'time series, decomposition techniques'
+
+Author[New]:         Huang Changquan, Raul Cristian Bag
+
