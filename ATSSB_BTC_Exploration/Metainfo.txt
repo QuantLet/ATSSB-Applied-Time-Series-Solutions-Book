@@ -1,0 +1,9 @@
+Name of Quantlet:    'ATSSB_BTC_Explorations'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet produces different plots for the Bitcoin Price Time series.'
+
+Keywords:            'time series, bitcoin, viztech'
+
+Author:         Huang Changquan, Alla Petukhina, Raul Cristian Bag

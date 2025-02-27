@@ -7,5 +7,5 @@ Description:         'This Quantlet produces exploration plots of different time
 
 Keywords:            'time series, explorations techniques'
 
-Author[New]:         Huang Changquan, Raul Cristian Bag
+Author:         Huang Changquan, Alla Petukhina, Raul Cristian Bag
 

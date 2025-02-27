@@ -13,7 +13,7 @@ Description: This Quantlet provides a proof that for a time series following the
 
 Keywords: time series, weak stationarity, strict stationarity, normal distribution, variance-covariance matrix
 
-Author[New]: Huang Changquan, Daniel Traian Pele, Raul Cristian Bag
+Author: Huang Changquan, Alla Petukhina, Daniel Traian Pele, Raul Cristian Bag
 
 Datafile: Not Applicable
 

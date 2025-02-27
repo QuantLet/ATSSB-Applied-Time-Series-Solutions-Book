@@ -1,0 +1,11 @@
+
+Name of Quantlet:    'ATSSB_China_GDP'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet produces different plots for the Chineese GDP Time series.'
+
+Keywords:            'time series, China, GDP, viztech'
+
+Author[New]:         Huang Changquan, Alla Petukhina, Raul Cristian Bag
+

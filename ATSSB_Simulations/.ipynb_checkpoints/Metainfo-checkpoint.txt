@@ -7,5 +7,5 @@ Description:         'This Quantlet produces simualations of different time seri
 
 Keywords:            'time series, simulation techniques'
 
-Author[New]:         Huang Changquan, Raul Cristian Bag
+Author:         Huang Changquan, Alla Petukhina, Raul Cristian Bag
 

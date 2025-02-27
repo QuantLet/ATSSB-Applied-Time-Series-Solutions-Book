@@ -13,7 +13,7 @@ Description: This Quantlet produces plots of beer production and steam bandwidth
 
 Keywords: time series, steam bandwidth, beer production
 
-Author[New]: Huang Changquan, Raul Cristian Bag
+Author: Huang Changquan, Alla Petukhina, Raul Cristian Bag
 
 ```
 <div align="center">

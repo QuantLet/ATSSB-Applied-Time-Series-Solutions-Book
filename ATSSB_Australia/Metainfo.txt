@@ -1,0 +1,10 @@
+
+Name of Quantlet:    'ATSSB_Australia'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet produces different plots for the Australian Unemployed Persons Time series.'
+
+Keywords:            'time series, australia, unemployed'
+
+Author:         Huang Changquan, Alla Petukhina, Raul Cristian Bag

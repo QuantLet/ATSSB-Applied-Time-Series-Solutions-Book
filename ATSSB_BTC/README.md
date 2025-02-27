@@ -13,7 +13,7 @@ Description: This Quantlet produces plots of closing daily prices, log-returns a
 
 Keywords: time series, BTC, Bitcoin, autocorrelation, log-returns
 
-Author: Huang Changquan, Raul Cristian Bag
+Author: Huang Changquan, Alla Petukhina, Raul Cristian Bag
 
 Datafile: bitcoin_price_data.csv
 

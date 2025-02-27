@@ -13,6 +13,6 @@ Description: This quantlet downloads the BTCUSD daily data in the form of: Time,
 
 Keywords: time series, BTC, Bitcoin, scraping, data, beautifulsoup
 
-Author[New]: Huang Changquan, Raul Cristian Bag
+Author: Huang Changquan, Alla Petukhina, Raul Cristian Bag
 
 ```
