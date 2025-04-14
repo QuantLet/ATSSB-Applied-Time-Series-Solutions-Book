@@ -1,0 +1,12 @@
+
+Name of Quantlet:    'ATSSB_ARMA_and_ARIMA_Modeling_Forecasting'
+
+Published in:        'Published in: Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet produces plots of Chapter 4 ARMA and ARIMA Modeling Forecasting'
+
+Keywords:            'time series, forecast, ACF, PCF AR, ARMA, autocorrelation, TACF'
+
+Author:         Huang Changquan, Alla Petukhina, Ruting Wang
+
+
