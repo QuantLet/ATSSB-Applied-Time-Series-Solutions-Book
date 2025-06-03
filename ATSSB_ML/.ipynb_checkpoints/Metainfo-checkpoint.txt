@@ -1,0 +1,11 @@
+
+Name of Quantlet:    'ATSSB_ML'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet produces different plots for the Chapter 10 of ATSSB. Modern Machine Learning Methods for Time Series Analysis'
+
+Keywords:            'time series, ML, machine learning, activation function, keras, tensorflow'
+
+Author[New]:         Huang Changquan, Alla Petukhina, Raul Cristian Bag
+
