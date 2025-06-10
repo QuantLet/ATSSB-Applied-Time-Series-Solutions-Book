@@ -1,1 +1,10 @@
+Name of Quantlet:    'ATSSB_ARCH_Effects'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet analyzes the daily log-return series of the Germany DAX index (2014–2025), tests for stationarity and ARCH effects, fits an ARMA(0,1) model, and estimates a GARCH(1,1) model to capture conditional heteroskedasticity.'
+
+Keywords:            'time series, DAX, log-returns, ARMA, GARCH, volatility modeling, financial data'
+
+Author:              'Daniel Traian Pele'
 
