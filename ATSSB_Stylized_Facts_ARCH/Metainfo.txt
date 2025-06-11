@@ -1,1 +1,10 @@
+Name of Quantlet:    'ATSSB_Stylized_Facts_ARCH'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet demonstrates the theoretical properties of the ARCH(1) model using simulation. It proves that the process ηₜ = σₜ²(εₜ² − 1) is white noise and that the unconditional distribution of Xₜ exhibits excess kurtosis (kurtosis > 3). Both single-run and Monte Carlo simulations are included to validate these properties empirically.'
+
+Keywords:            'ARCH, white noise, excess kurtosis, time series simulation, volatility clustering, Monte Carlo, stylized facts'
+
+Author:              'Daniel Traian Pele'
 
