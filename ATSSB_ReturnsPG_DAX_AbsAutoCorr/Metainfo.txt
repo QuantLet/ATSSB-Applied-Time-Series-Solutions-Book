@@ -1,0 +1,9 @@
+Name of Quantlet:    'ATSSB_ReturnsPG_DAX_AbsAutoCorr'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet analyzes the autocorrelation properties of the absolute monthly return series of Procter & Gamble (PG) and the absolute daily log-returns of the DAX index. It demonstrates, using the Ljung-Box test, that both series exhibit strong autocorrelation in their absolute values, indicating volatility clustering and the non-independence of return magnitudes.'
+
+Keywords:            'returns, absolute returns, autocorrelation, volatility clustering, Ljung-Box test, Procter & Gamble, DAX, financial time series, Python'
+
+Author:              'Daniel Traian Pele'
