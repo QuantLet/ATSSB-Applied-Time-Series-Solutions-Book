@@ -22,7 +22,7 @@ x=pd.Series(x)
 x.plot()
 plt.ylabel("Simulated sample values")
 plt.xlabel("Time")
-plt.title("Simulated ARMA Process")
+plt.title("Simulated AR Process")
 plt.savefig('problem301Timeplt.eps', dpi=1200, bbox_inches='tight', transparent=True)
 plt.savefig('problem301Timeplt.png', dpi=1200, bbox_inches='tight', transparent=True)
 
