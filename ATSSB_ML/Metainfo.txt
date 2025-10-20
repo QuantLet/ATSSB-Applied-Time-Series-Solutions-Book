@@ -7,5 +7,5 @@ Description:         'This Quantlet produces different plots for the Chapter 10 
 
 Keywords:            'time series, ML, machine learning, activation function, keras, tensorflow'
 
-Author[New]:         Huang Changquan, Alla Petukhina, Raul Cristian Bag
+Author:              Huang Changquan, Alla Petukhina, Raul Cristian Bag
 
