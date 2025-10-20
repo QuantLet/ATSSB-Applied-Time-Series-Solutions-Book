@@ -7,5 +7,6 @@ Description:         'This Quantlet produces different plots for the Chineese GD
 
 Keywords:            'time series, China, GDP, viztech'
 
-Author[New]:         Huang Changquan, Alla Petukhina, Raul Cristian Bag
+Author:              Huang Changquan, Alla Petukhina, Raul Cristian Bag
 
+Submitted: 
