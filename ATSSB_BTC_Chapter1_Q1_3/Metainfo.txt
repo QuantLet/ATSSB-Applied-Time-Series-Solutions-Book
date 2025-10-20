@@ -7,9 +7,9 @@ Description:         'This Quantlet produces plots of S&P Cryptocurrency Broad D
 
 Keywords:            'time series, BTC, Bitcoin, autocorrelation, log-returns'
 
-Author:         Huang Changquan, Alla Petukhina, Ruting Wang
+Author:              Huang Changquan, Alla Petukhina, Ruting Wang
 
 Datafile:            SP_Cryptocurrency_BDM.csv
 
-Submitted:           
+Submitted:           19.01.2025
 
