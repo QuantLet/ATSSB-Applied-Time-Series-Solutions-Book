@@ -9,3 +9,4 @@ Keywords:            'time series, ML, machine learning, activation function, ke
 
 Author:              Huang Changquan, Alla Petukhina, Raul Cristian Bag
 
+Submitted:           10.06.2025
