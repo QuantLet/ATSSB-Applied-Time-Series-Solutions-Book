@@ -9,4 +9,4 @@ Keywords:            'time series, China, GDP, viztech'
 
 Author:              Huang Changquan, Alla Petukhina, Raul Cristian Bag
 
-Submitted: 
+Submitted:           27.02.2025
