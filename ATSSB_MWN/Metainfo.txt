@@ -1,1 +1,6 @@
-AT
+Name of Quantlet:    'ATSSB_MWN'
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+Description:         'This Quantlet simulates a 5-dimensional Gaussian white noise process with specified covariance structure, computes sample autocorrelation and cross-correlation functions, performs the Extended Trace test for individual lag independence, and applies the multivariate Portmanteau (Ljung-Box) Q test for joint serial correlation testing.'
+Keywords:            'multivariate time series, white noise, autocorrelation, cross-correlation, portmanteau test, Ljung-Box, extended trace, covariance matrix, Cholesky decomposition, hypothesis testing'
+Author:              'Daniel Traian Pele'
+Date:                 
