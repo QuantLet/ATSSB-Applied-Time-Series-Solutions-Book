@@ -1,1 +1,5 @@
-AT
+Name of Quantlet:    'ATSSB_VAR'
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+Description:         'This Quantlet provides a complete analysis of a three-dimensional VAR(2) process, including stability check via eigenvalue analysis, mean vector computation, VAR(1) companion form representation, VMA(∞) coefficient matrices, Granger causality F-tests with network visualization, orthogonalized impulse response functions with bootstrap confidence intervals, cumulative IRFs, forecast error variance decomposition, and process simulation.'
+Keywords:            'VAR, vector autoregression, Granger causality, impulse response, FEVD, bootstrap, multivariate time series, cointegration, stability analysis'
+Author:              'Daniel Traian Pele'
