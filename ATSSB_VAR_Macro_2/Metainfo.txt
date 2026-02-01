@@ -1,1 +1,5 @@
-
+Name of Quantlet:    'ATSSB_VAR_Macro_2'
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+Description:         'This Quantlet analyzes UK, Canada, and US quarterly GDP growth rates from FRED (1975Q2-2020Q3), transforms series to stationary growth rates via log-differencing, estimates a VAR(2) model, performs Portmanteau Q residual diagnostics, computes orthogonalized and cumulative impulse response functions with bootstrap confidence intervals, and calculates forecast error variance decomposition to examine cross-country GDP spillovers.'
+Keywords:            'VAR, vector autoregression, GDP, UK, Canada, US, Granger causality, impulse response, FEVD, bootstrap, Portmanteau test, cross-country spillovers'
+Author:              'Daniel Traian Pele'
