@@ -1,0 +1,5 @@
+Name of Quantlet:    'ATSSB_VAR_GDPRate'
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+Description:         'This Quantlet models the differenced series dmda=[dlogGDP, drate] using VAR(13). The unrestricted VAR(13) is estimated and diagnosed using multivariate Portmanteau Q test (Fig. 7.13 shows p-value at lag 14 is 0.0473 < 0.05). The model is refined by fixing coefficients at zero when their p-values exceed 0.5. The refined VAR(13) passes all Portmanteau tests (Fig. 7.14 shows all p-values > 0.05), confirming model adequacy.'
+Keywords:            'VAR, vector autoregression, GDP, unemployment rate, Portmanteau test, model refinement, zero restrictions, residual diagnostics'
+Author:              'Daniel Traian Pele'
