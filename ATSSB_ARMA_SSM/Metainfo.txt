@@ -1,0 +1,6 @@
+Name of QuantLet: 'SSM_ARMA_StateSpace_Verification'
+Published in: 'State Space Models and Markov Switching Models - Chapter 8'
+Description: 'Algebraic and numerical verification that the state space models (8.4)-(8.5) are equivalent to the ARMA(1,1) model (8.3). Includes simulation comparison, difference analysis, and ACF verification.'
+Keywords: 'state space model, ARMA, time series, companion form, algebraic verification, simulation, ACF'
+Author: 'Daniel Traian Pele'
+Submitted: 'Sunday, 9 February 2026'
