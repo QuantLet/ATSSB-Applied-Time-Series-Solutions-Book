@@ -1,0 +1,5 @@
+Name of Quantlet:    'ATSSB_AR_Companion'
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+Description:         'This Quantlet constructs the companion matrix state space representation for the causal AR(p) model, verifies equivalence with a numerical AR(3) simulation, and checks stability via eigenvalue analysis on the unit circle.'
+Keywords:            'companion matrix, AR model, state space, eigenvalues, unit circle, stability, causality'
+Author:              'Daniel Traian Pele'
