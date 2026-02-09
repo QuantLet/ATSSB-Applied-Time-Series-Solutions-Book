@@ -1,0 +1,5 @@
+Name of Quantlet:    'ATSSB_SARIMAX_GDP'
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+Description:         'This Quantlet fits a SARIMAX(1,0,0)(0,0,0)_4 model to log real GDP with log real consumption and log real investment as exogenous regressors, including preliminary OLS regression, KPSS stationarity test, ACF/PACF identification, and Ljung-Box residual diagnostics.'
+Keywords:            'SARIMAX, GDP, consumption, investment, exogenous regressors, Ljung-Box, ARCH, KPSS, macroeconomics'
+Author:              'Daniel Traian Pele'
