@@ -1,0 +1,5 @@
+Name of Quantlet:    'ATSSB_Kalman_Filtering'
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+Description:         'This Quantlet implements the Kalman filter, one-step-ahead predictor, and Rauch-Tung-Striebel smoother for the time-invariant state space model, applied to a simulated local level model (random walk plus noise) with 95% confidence bands.'
+Keywords:            'Kalman filter, Kalman smoother, state space, local level model, prediction, filtering, smoothing'
+Author:              'Daniel Traian Pele'
