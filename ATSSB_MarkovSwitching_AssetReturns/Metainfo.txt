@@ -1,0 +1,5 @@
+Name of Quantlet:    'ATSSB_MarkovSwitching_AssetReturns'
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+Description:         'This Quantlet fits a 2-regime Markov switching regression model with switching variance to weekly asset returns, conducts Ljung-Box residual diagnostics showing the model is inadequate, and analyzes smoothed regime probabilities.'
+Keywords:            'Markov switching, asset returns, switching variance, Ljung-Box, regime switching, volatility regimes'
+Author:              'Daniel Traian Pele'
