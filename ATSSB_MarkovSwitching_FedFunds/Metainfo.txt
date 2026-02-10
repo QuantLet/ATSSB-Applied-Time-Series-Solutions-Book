@@ -1,0 +1,5 @@
+Name of Quantlet:    'ATSSB_MarkovSwitching_FedFunds'
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+Description:         'This Quantlet fits a simple 2-regime Markov switching regression model to the US federal funds rate with both non-switching and switching variance specifications, showing that both models are inadequate via Ljung-Box residual diagnostics.'
+Keywords:            'Markov switching, federal funds rate, regime switching, switching variance, Ljung-Box, monetary policy'
+Author:              'Daniel Traian Pele'
