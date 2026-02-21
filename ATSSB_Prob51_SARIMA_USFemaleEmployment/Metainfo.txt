@@ -1,0 +1,9 @@
+Name of Quantlet:    'ATSSB_Prob51_SARIMA_USFemaleEmployment'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'Faithful SARIMA modeling of US female employment data with seasonal differencing and diagnostics.'
+
+Keywords:            'time series, SARIMA, seasonal ARIMA, employment, diagnostics'
+
+Author:              'Daniel Traian Pele'

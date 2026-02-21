@@ -1,0 +1,9 @@
+Name of Quantlet:    'ATSSB_Prob510_REGARMA_Temperature'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'Faithful harmonic regression with ARMA(2,[4]) dynamics for Southern Hemisphere temperature volatility.'
+
+Keywords:            'time series, REGARMA, harmonic regression, ARMA, climate modeling'
+
+Author:              'Daniel Traian Pele'

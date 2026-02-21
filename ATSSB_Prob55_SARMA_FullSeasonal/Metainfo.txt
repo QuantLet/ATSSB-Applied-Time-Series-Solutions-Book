@@ -1,0 +1,9 @@
+Name of Quantlet:    'ATSSB_Prob55_SARMA_FullSeasonal'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'Faithful simulation and estimation of SARMA(1,1)(1,1)_4 process.'
+
+Keywords:            'time series, SARMA, seasonal ARMA, simulation, diagnostics'
+
+Author:              'Daniel Traian Pele'

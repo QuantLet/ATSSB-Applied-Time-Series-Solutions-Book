@@ -1,0 +1,9 @@
+Name of Quantlet:    'ATSSB_Prob59_Log_h02_Model'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'Faithful SARIMA(2,1,[2,4])(0,1,2)_12 modeling of logged h02 series.'
+
+Keywords:            'time series, SARIMA, seasonal differencing, log transformation, diagnostics'
+
+Author:              'Daniel Traian Pele'

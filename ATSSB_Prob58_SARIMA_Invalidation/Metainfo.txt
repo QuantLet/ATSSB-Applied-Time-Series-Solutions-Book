@@ -1,0 +1,9 @@
+Name of Quantlet:    'ATSSB_Prob58_SARIMA_Invalidation'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'Faithful validation of SARIMA(3,0,0)(2,1,0)_12 model inadequacy for h02 data.'
+
+Keywords:            'time series, SARIMA, model validation, Ljung-Box'
+
+Author:              'Daniel Traian Pele'

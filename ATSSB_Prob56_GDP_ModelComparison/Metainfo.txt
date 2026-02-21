@@ -1,0 +1,9 @@
+Name of Quantlet:    'ATSSB_Prob56_GDP_ModelComparison'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'Faithful SARIMA(2,1,0)(0,1,0)_4 modeling of logged Chinese GDP.'
+
+Keywords:            'time series, SARIMA, GDP, seasonal differencing, diagnostics'
+
+Author:              'Daniel Traian Pele'
