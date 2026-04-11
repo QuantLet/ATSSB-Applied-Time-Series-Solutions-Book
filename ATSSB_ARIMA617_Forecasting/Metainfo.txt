@@ -1,0 +1,11 @@
+
+Name of Quantlet:    'ARIMA617_Forecasting_Diagnostics'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet implements ARIMA(0,1,6) forecasting with comprehensive residual diagnostics including time series plots, Q-Q plots, histograms, Ljung-Box tests, and ACF analysis.'
+
+Keywords:            'time series, ARIMA(0,1,6), forecasting, residual diagnostics, Ljung-Box test, Q-Q plot, ACF'
+
+Author:         Huang Changquan, Alla Petukhina, Ruting Wang
+

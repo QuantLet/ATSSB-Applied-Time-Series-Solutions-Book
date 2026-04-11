@@ -1,0 +1,11 @@
+
+Name of Quantlet:    'ARIMA011_Residual_Pvalue_Analysis'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet analyzes residual p-values for ARIMA(0,1,1) model through probability plots to assess model adequacy.'
+
+Keywords:            'time series, ARIMA(0,1,1), residual analysis, p-value, probability plot'
+
+Author:         Huang Changquan, Alla Petukhina, Ruting Wang
+

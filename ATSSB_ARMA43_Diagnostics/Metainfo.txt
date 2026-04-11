@@ -1,0 +1,11 @@
+
+Name of Quantlet:    'ARMA43_Residual_Diagnostics'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet performs residual diagnostics for ARMA(4,3) model including ACF probability analysis and Ljung-Box p-value tests.'
+
+Keywords:            'time series, ARMA(4,3), residual diagnostics, ACF, Ljung-Box test, probability analysis'
+
+Author:         Huang Changquan, Alla Petukhina, Ruting Wang
+
