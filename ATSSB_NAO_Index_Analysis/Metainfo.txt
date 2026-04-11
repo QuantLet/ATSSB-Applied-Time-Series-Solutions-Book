@@ -1,0 +1,11 @@
+
+Name of Quantlet:    'NAO_Index_ACF_PACF_Analysis'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet analyzes the North Atlantic Oscillation (NAO) Index time series, computing and visualizing ACF and PACF to identify potential non-stationarity patterns.'
+
+Keywords:            'time series, NAO index, ACF, PACF, autocorrelation, stationarity'
+
+Author:         Huang Changquan, Alla Petukhina, Ruting Wang
+
