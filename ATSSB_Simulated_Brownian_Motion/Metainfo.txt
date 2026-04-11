@@ -1,0 +1,10 @@
+Name of Quantlet:    'ATSSB_Simulated_Brownian_Motion'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet simulates and visualizes Standard Brownian Motion processes with different random seeds for comparison.'
+
+Keywords:            'Brownian motion, stochastic process, simulation, random walk, continuous-time process'
+
+Author:         Huang Changquan, Alla Petukhina, Ruting Wang
+
