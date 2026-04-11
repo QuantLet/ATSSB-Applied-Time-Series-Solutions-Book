@@ -1,0 +1,11 @@
+
+Name of Quantlet:    'US_Bill_ARMA13_Modeling'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet applies ARMA(1,3) modeling to US Treasury Bill data, including ACF/PACF analysis, model fitting, residual diagnostics, and forecasting.'
+
+Keywords:            'time series, US Treasury Bill, ARMA(1,3), forecast, residual diagnostics, ACF, PACF'
+
+Author:         Huang Changquan, Alla Petukhina, Ruting Wang
+
