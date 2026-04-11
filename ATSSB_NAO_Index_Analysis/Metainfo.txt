@@ -1,5 +1,5 @@
 
-Name of Quantlet:    'NAO_Index_ACF_PACF_Analysis'
+Name of Quantlet:    'ATSSB_NAO_Index_Analysis'
 
 Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
 
