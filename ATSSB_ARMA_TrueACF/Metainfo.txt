@@ -1,0 +1,11 @@
+
+Name of Quantlet:    'ATSSB_ARMA_TrueACF'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet computes and visualizes true ACF/PACF functions for various ARMA models, comparing theoretical autocorrelation structures.'
+
+Keywords:            'time series, ARMA, true ACF, theoretical ACF, PACF, autocorrelation function'
+
+Author:         Huang Changquan, Alla Petukhina, Ruting Wang
+

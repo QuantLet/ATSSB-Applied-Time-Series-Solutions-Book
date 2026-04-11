@@ -1,0 +1,11 @@
+
+Name of Quantlet:    'ATSSB_AR2_Simulation'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet simulates AR(2) processes and generates time series plots along with ACF/PACF analysis to visualize autocorrelation patterns.'
+
+Keywords:            'time series, AR(2) model, simulation, ACF, PACF, autocorrelation, stationary'
+
+Author:         Huang Changquan, Alla Petukhina, Ruting Wang
+
