@@ -1,4 +1,3 @@
-
 Name of Quantlet:    'ATSSB_ARIMA617_Forecasting'
 
 Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
