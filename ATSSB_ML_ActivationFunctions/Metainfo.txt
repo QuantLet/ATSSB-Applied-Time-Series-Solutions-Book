@@ -1,0 +1,12 @@
+
+Name of Quantlet:    'ATSSB_ML_ActivationFunctions'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'Plots the sigmoid, ReLU, and hyperbolic tangent activation functions with scaling parameters a = 1, 2, 3 (Exercise 10.1 of ATSSB Chapter 10).'
+
+Keywords:            'time series, machine learning, activation function, sigmoid, ReLU, tanh, neural networks'
+
+Author:              Huang Changquan, Alla Petukhina, Raul Cristian Bag
+
+Submitted:           10.06.2025

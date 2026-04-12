@@ -1,0 +1,12 @@
+
+Name of Quantlet:    'ATSSB_ML_GRUModel'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'Trains a GRU neural network on the electricity-temperature dataset to forecast hourly electricity load one step ahead, plots predicted vs actual values on the test window, and inspects the ACF/PACF of the residuals.'
+
+Keywords:            'time series, machine learning, GRU, neural network, forecasting, electricity load, Keras, TensorFlow, residual diagnostics, ATSSB Chapter 10'
+
+Author:              Huang Changquan, Alla Petukhina, Raul Cristian Bag
+
+Submitted:           10.06.2025
