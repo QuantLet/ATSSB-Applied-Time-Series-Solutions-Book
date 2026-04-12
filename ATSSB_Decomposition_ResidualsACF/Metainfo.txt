@@ -1,0 +1,11 @@
+
+Name of Quantlet:    'ATSSB_Decomposition_ResidualsACF'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'Plots the sample autocorrelation function (up to lag 48) of residuals from multiplicative seasonal decomposition of the Australian total employed persons monthly series.'
+
+Keywords:            'time series, ACF, autocorrelation, residuals, seasonal decomposition, Australia employment'
+
+Author:         Huang Changquan, Alla Petukhina, Raul Cristian Bag
+

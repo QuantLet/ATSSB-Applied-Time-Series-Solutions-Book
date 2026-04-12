@@ -1,0 +1,11 @@
+
+Name of Quantlet:    'ATSSB_Decomposition_ResidualsLag'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'Produces a lag plot of the residual component from multiplicative seasonal decomposition of the Australian total employed persons monthly series to inspect serial dependence.'
+
+Keywords:            'time series, residuals, lag plot, serial dependence, seasonal decomposition, Australia employment'
+
+Author:         Huang Changquan, Alla Petukhina, Raul Cristian Bag
+

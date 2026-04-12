@@ -1,0 +1,11 @@
+
+Name of Quantlet:    'ATSSB_Decomposition_Multiplicative'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'Performs multiplicative seasonal decomposition of the Australian total employed persons monthly series and plots the observed, trend, seasonal, and residual components.'
+
+Keywords:            'time series, seasonal decomposition, multiplicative model, trend, seasonality, Australia employment'
+
+Author:         Huang Changquan, Alla Petukhina, Raul Cristian Bag
+

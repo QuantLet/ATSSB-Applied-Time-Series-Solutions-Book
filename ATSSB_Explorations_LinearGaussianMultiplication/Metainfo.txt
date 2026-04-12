@@ -1,0 +1,11 @@
+
+Name of Quantlet:    'ATSSB_Explorations_LinearGaussianMultiplication'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'Plots the composition time series formed by multiplying a linear trend with Gaussian white noise: (0.2+0.1t) * N(0, 4.2^2).'
+
+Keywords:            'time series, composition, linear trend, Gaussian noise, multiplication'
+
+Author:         Huang Changquan, Alla Petukhina, Raul Cristian Bag
+

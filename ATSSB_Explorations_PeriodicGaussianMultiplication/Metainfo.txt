@@ -1,0 +1,11 @@
+
+Name of Quantlet:    'ATSSB_Explorations_PeriodicGaussianMultiplication'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'Plots the composition time series formed by multiplying a periodic (sinusoidal) component with Gaussian white noise: 2 sin(2 pi t/50 + 0.3 pi) * N(0, 4.2^2).'
+
+Keywords:            'time series, composition, periodic, sinusoidal, Gaussian noise, multiplication'
+
+Author:         Huang Changquan, Alla Petukhina, Raul Cristian Bag
+
