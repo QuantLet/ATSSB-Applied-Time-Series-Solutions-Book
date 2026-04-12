@@ -1,0 +1,10 @@
+Name of Quantlet:    'ATSSB_RandomWalk'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet demonstrates that a random walk possesses a stochastic trend by simulating random walk paths, verifying that the variance grows linearly with time via Monte Carlo, and showing that the first differences are white noise through ACF analysis.'
+
+Keywords:            'random walk, stochastic trend, Monte Carlo simulation, variance growth, first difference, white noise, ACF, non-stationarity'
+
+Author:         Huang Changquan, Alla Petukhina, Ruting Wang, Raul Cristian Bag
+

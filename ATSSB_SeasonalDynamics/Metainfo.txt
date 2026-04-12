@@ -1,0 +1,10 @@
+Name of Quantlet:    'ATSSB_SeasonalDynamics'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'This Quantlet compares a stationary seasonal AR(1) process (phi=0.2) with a seasonal random walk (phi=1.0) at period 12, visualizing their time series, ACFs, seasonal subseries plots, and concatenated seasonal subseries to illustrate the difference between seasonal stationarity and seasonal unit roots.'
+
+Keywords:            'seasonal AR, seasonal random walk, seasonal unit root, ACF, seasonal subseries, month plot, non-stationarity, time series simulation'
+
+Author:         Huang Changquan, Alla Petukhina, Ruting Wang, Raul Cristian Bag
+
