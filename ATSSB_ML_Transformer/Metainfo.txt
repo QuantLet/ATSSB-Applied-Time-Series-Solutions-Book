@@ -1,0 +1,14 @@
+
+Name of Quantlet:    'ATSSB_ML_Transformer'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'Transformer (BERT-based) neural network for electric-load forecasting (Solution 2 to Problem 10.3). Implemented in PyTorch with a BertModel encoder. Forecasts electricity load and diagnoses residuals with an ACF plot; Test MAPE = 0.0138, Test RMSE = 62.7791.'
+
+Keywords:            'time series, machine learning, deep learning, transformer, attention, BERT, PyTorch, forecasting, electricity load, MAPE, RMSE'
+
+Author:              Huang Changquan, Alla Petukhina, Raul Cristian Bag
+
+Submitted:           17.06.2026
+
+Datafiles:           'elec-temp.csv'

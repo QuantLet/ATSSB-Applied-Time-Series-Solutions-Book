@@ -1,0 +1,14 @@
+
+Name of Quantlet:    'ATSSB_ML_RandomForest'
+
+Published in:        'Applied Time Series Analysis and Forecasting with Python Solutions Book'
+
+Description:         'Random Forest regression for electric-load forecasting (Solution 4 to Problem 10.3), continuing from the feature set engineered in Solution 3. Best-performing of the four architectures: Test MAPE = 0.0060, Test RMSE = 30.57. Reproduces the actuals-vs-predictions and residual ACF figures and the feature-importance ranking.'
+
+Keywords:            'time series, machine learning, random forest, ensemble learning, regression, feature importance, forecasting, electricity load, scikit-learn, MAPE, RMSE'
+
+Author:              Huang Changquan, Alla Petukhina, Raul Cristian Bag
+
+Submitted:           17.06.2026
+
+Datafiles:           'elec-temp.csv'
